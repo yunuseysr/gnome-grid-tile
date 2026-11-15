@@ -1,0 +1,8 @@
+{
+  "uuid": "grid-tile@yunusemreyasar",
+  "name": "Grid Tile",
+  "description": "Tiles the open windows of the current workspace into an equal grid (e.g. 6 → 3×2, 8 → 4×2) from a top bar menu.",
+  "shell-version": ["45", "46", "47", "48"],
+  "settings-schema": "org.gnome.shell.extensions.grid-tile",
+  "url": "https://github.com/yunuseysr/gnome-grid-tile"
+}

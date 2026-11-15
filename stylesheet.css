@@ -1,0 +1,17 @@
+.grid-tile-entry {
+  min-width: 60px;
+  margin: 0 8px;
+}
+
+.grid-tile-go {
+  padding: 4px 14px;
+}
+
+.grid-tile-presets {
+  spacing: 6px;
+}
+
+.grid-tile-preset {
+  padding: 4px 0;
+  min-width: 36px;
+}

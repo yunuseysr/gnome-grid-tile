@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.grid-tile" path="/org/gnome/shell/extensions/grid-tile/">
+    <key name="tile-count" type="i">
+      <range min="1" max="16"/>
+      <default>6</default>
+      <summary>Number of grid cells</summary>
+    </key>
+    <key name="gap" type="i">
+      <range min="0" max="40"/>
+      <default>0</default>
+      <summary>Gap between windows in pixels</summary>
+    </key>
+  </schema>
+</schemalist>
